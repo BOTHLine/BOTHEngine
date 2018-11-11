@@ -1,0 +1,3 @@
+[submodule "BOTHEngine/vencor/spdlog"]
+	path = BOTHEngine/vendor/spdlog
+	url = https://github.com/gabime/spdlog
